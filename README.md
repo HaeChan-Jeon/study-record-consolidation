@@ -14,6 +14,6 @@
 
 * 2023
   * December
-    * [**Nesting**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/nesting) (12/16 | CSS -> SCSS)
+    * [**Nesting**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/nesting) (12/16 | CSS -> SCSS -> Nesting)
      
 ***
