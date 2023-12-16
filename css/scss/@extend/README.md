@@ -10,7 +10,7 @@
 * Placeholder 선택자 정의:
     * `%alert`는 CSS 클래스가 아닌 SCSS에서만 사용되는 특별한 placeholder 선택자이며, `%alert`에 정의된 스타일은 다른 클래스들이 이를 `@extend`할 때까지 실제 CSS에 포함되지 않음
 
-```CSS
+```SCSS
 %alert {
     margin: 10px;
     padding: 10px 20px;
@@ -24,7 +24,7 @@
     * 각각의 클래스들은 `%alert`에서 정의된 스타일(여백, 패딩, 테두리 반경, 테두리 스타일)을 상속받음
     * 또한 각 클래스는 고유의 `background-color` 속성을 가지고 있어, 상속받은 스타일에 추가적인 스타일을 적용함
 
-```CSS
+```SCSS
 .success {
     @extend %alert;
     background-color: green;
