@@ -19,7 +19,7 @@
 * 아래 CSS 예제는  `ul` 요소와 그 자식 요소들을 스타일링하기 위해 작성됨
     * 이 코드의 주요 목적은 `ul` 요소 내의 `li` 항목들을 커스터마이즈하고, `li` 항목 안의 `a` 태그에 대한 스타일을 지정하는 것임
 
-```CSS
+```SCSS
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
@@ -56,7 +56,7 @@ ul li a {
 * 기본적으로 부모 선택자를 참조하는 `&` 연산자를 사용하면 아래와 같이 간결하게 표현 가능
     * 가령 `.btn` 클래스 안에 `&:hover`를 사용하면, 이는 `.btn:hover`와 동일하게 작동함
 
-```CSS
+```SCSS
 body {
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
@@ -88,7 +88,7 @@ ul {
 
 * 더불어서, 아래 예제와 같이 부모 선택자를 참조하여 사용하는 것도 가능
 
-```CSS
+```SCSS
 // SCSS 사용
 li {
     &:first-child {}
