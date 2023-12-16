@@ -51,3 +51,9 @@ body{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxyg
 ```
 
 ***
+
+<p align="center">
+<img width="960" alt="image" src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/e3d830b0-55b2-47a2-b7a2-0a21e70ee8a6">
+</p>
+
+***
