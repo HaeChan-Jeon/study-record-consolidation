@@ -16,8 +16,8 @@
 
 * 반면, 과도환 Nesting은 코드를 복잡하게 만들 수 있으므로 적절한 수준에서 사용하는 것이 좋음
 
-* 아래 CSS 예제는  ul 요소와 그 자식 요소들을 스타일링하기 위해 작성됨
-    * 이 코드의 주요 목적은 ul 요소 내의 li 항목들을 커스터마이즈하고, li 항목 안의 a 태그에 대한 스타일을 지정하는 것임
+* 아래 CSS 예제는  `ul` 요소와 그 자식 요소들을 스타일링하기 위해 작성됨
+    * 이 코드의 주요 목적은 `ul` 요소 내의 `li` 항목들을 커스터마이즈하고, `li` 항목 안의 `a` 태그에 대한 스타일을 지정하는 것임
 
 ```CSS
 body {
@@ -103,7 +103,7 @@ li:last-child {}
 li.middle {}
 ```
 
-* npm run build를 통해 SCSS의 Nesing을 CSS로 변환한 결과
+* `npm run build`를 통해 SCSS의 Nesing을 CSS로 변환한 결과
 
 ```CSS
 body{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif}ul{list-style-type:none;padding:0;display:flex;gap:10px}ul li{background-color:tomato;color:#fff;padding:5px 10px;border-radius:7px}ul li:hover{opacity:.8}ul li:hover a{color:gray}ul li a{text-decoration:none;color:#fff;text-transform:uppercase}
