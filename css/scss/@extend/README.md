@@ -44,12 +44,6 @@
 * `.success`, `.error`, `.warning` 클래스들은 모두 `%alert`로부터 기본 스타일을 상속받음
 * 각 클래스는 고유의 배경 색상을 가짐으로써, 기본 스타일에 변형을 줌
 
-* `npm run build`를 통해 SCSS의 `%alert`을 CSS로 변환한 결과
-
-```CSS
-body{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif;padding:60px}.warning,.error,.success{margin:10px;padding:10px 20px;border-radius:10px;border:1px dashed black}.success{background-color:green}.error{background-color:tomato}.warning{background-color:#ff0}
-```
-
 ***
 
 <p align="center">
