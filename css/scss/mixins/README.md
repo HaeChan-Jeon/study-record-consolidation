@@ -12,7 +12,7 @@
     * 이 `mixin`은 2개의 매개변수 `$bgColor`와 `$borderColor`를 받아들임
     * 이 매개변수들은 배경색, 테두리 색상 등의 스타일 규칙에 사용됨
 
-```CSS
+```SCSS
 @mixin alert($bgColor, $borderColor) {
     background-color: $bgColor;
     margin: 10px;
@@ -26,7 +26,7 @@
     * `.success`, `.error`, `.warning` 클래스에서 `@include` 지시어를 사용하여 `alert mixin`을 적용
     * 각 클래스에 대해 다른 배경색과 테두리 색상 매개변수를 전달
 
-```CSS
+```SCSS
 .success {
     @include alert(green, blue);
 }
