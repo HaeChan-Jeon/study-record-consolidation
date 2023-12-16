@@ -21,7 +21,7 @@
     * [**Nesting**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/nesting) (12/16 | CSS -> SCSS -> Nesting)
     * [**@extend**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/%40extend) (12/16 | CSS -> SCSS -> @extend)
     * [**Mixins**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/mixins) (12/16 | CSS -> SCSS -> Mixins)
-    * [**@contetn**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@contetn) (12/16 | CSS -> SCSS -> @content)
+    * [**@content**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@content) (12/16 | CSS -> SCSS -> @content)
     * [**@media**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@media) (12/16 | CSS -> SCSS -> @media)
      
 ***
