@@ -1,52 +1,53 @@
-# Mixins
+# @extend
 
-* `SCSS (Sassy CSS)`의 `Mixins`는 재사용 가능한 스타일 블록을 생성하고, 이를 다양한 선택자에 적용할 수 있게 해주는 기능
-* `Mixins`는 스타일 시트의 중복을 줄이고, 코드의 재사용성과 유지 보수성을 향상시키는 데 도움이 됨
+* `SCSS (Sassy CSS)`의 `@extend` 지시문은 CSS에서 재사용 가능한 스타일을 만들기 위해 사용됨
+* `@extend` 지시문은 한 선택자의 모든 스타일을 다른 선택자에게 상속하도록 허용하며, 중복 코드를 줄이고 유지보수를 용이하게 함
 
 ***
 
-## Mixins 사용 예시
+## @extend 사용 예시
 
-* Mixin 정의:
-    * `@mixin` 지시어를 사용하여 `alert`라는 이름의 mixin을 생성
-    * 이 `mixin`은 2개의 매개변수 `$bgColor`와 `$borderColor`를 받아들임
-    * 이 매개변수들은 배경색, 테두리 색상 등의 스타일 규칙에 사용됨
+* Placeholder 선택자 정의:
+    * `%alert`는 CSS 클래스가 아닌 SCSS에서만 사용되는 특별한 placeholder 선택자이며, `%alert`에 정의된 스타일은 다른 클래스들이 이를 `@extend`할 때까지 실제 CSS에 포함되지 않음
 
 ```CSS
-@mixin alert($bgColor, $borderColor) {
-    background-color: $bgColor;
+%alert {
     margin: 10px;
     padding: 10px 20px;
     border-radius: 10px;
-    border: 1px dashed $borderColor;
+    border: 1px dashed black;
 }
 ```
 
-* Mixin 사용:
-    * `.success`, `.error`, `.warning` 클래스에서 `@include` 지시어를 사용하여 `alert mixin`을 적용
-    * 각 클래스에 대해 다른 배경색과 테두리 색상 매개변수를 전달
+* @extend를 이용한 스타일 상속:
+    * `.success`, `.error`, `.warning` 클래스가 %alert의 스타일을 상속받음
+    * 각각의 클래스들은 `%alert`에서 정의된 스타일(여백, 패딩, 테두리 반경, 테두리 스타일)을 상속받음
+    * 또한 각 클래스는 고유의 `background-color` 속성을 가지고 있어, 상속받은 스타일에 추가적인 스타일을 적용함
 
 ```CSS
 .success {
-    @include alert(green, blue);
+    @extend %alert;
+    background-color: green;
 }
 
 .error {
-    @include alert(tomato, white);
+    @extend %alert;
+    background-color: tomato;
 }
 
 .warning {
-    @include alert(yellow, black);
+    @extend %alert;
+    background-color: yellow;
 }
 ```
 
-* `.success`, `.error`, `.warning` 클래스는 모두 `alert mixin`으로부터 기본 스타일(여백, 패딩, 테두리 반경, 테두리 스타일)을 상속받음
-* 각 클래스는 고유의 배경색과 테두리 색상을 가짐
+* `.success`, `.error`, `.warning` 클래스들은 모두 `%alert`로부터 기본 스타일을 상속받음
+* 각 클래스는 고유의 배경 색상을 가짐으로써, 기본 스타일에 변형을 줌
 
-***
+* `npm run build`를 통해 SCSS의 `%alert`을 CSS로 변환한 결과
 
-<p align="center">
-<img width="960" alt="image" src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/d3623ad2-9fbd-48e9-96ac-417905d24be2">
-</p>
+```CSS
+body{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue,sans-serif;padding:60px}.warning,.error,.success{margin:10px;padding:10px 20px;border-radius:10px;border:1px dashed black}.success{background-color:green}.error{background-color:tomato}.warning{background-color:#ff0}
+```
 
 ***
