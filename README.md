@@ -11,6 +11,8 @@
     * [**Mixins**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/mixins)
     * [**@content**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@content)
     * [**@media**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@media)
+  * CLONE
+    * [**clone-timothy-snyder**](https://github.com/HaeChan-Jeon/clone-timothy-snyder/tree/main)
 
 ***
 
@@ -23,5 +25,6 @@
     * [**Mixins**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/mixins) (12/16 | CSS -> SCSS -> Mixins)
     * [**@content**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@content) (12/16 | CSS -> SCSS -> @content)
     * [**@media**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@media) (12/16 | CSS -> SCSS -> @media)
-     
+    * [**clone-timothy-snyder**](https://github.com/HaeChan-Jeon/clone-timothy-snyder/tree/main) (12/17 | CSS -> CLONE -> clone-timothy-snyder)
+  
 ***
