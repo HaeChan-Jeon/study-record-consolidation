@@ -15,6 +15,7 @@
     * [**clone-timothy-snyder**](https://github.com/HaeChan-Jeon/clone-timothy-snyder/tree/main)
     * [**clone-high-end-fashion-store**](https://github.com/HaeChan-Jeon/clone-high-end-fashion-store/tree/main)
     * [**clone-beauty-store**](https://github.com/HaeChan-Jeon/clone-beauty-store/tree/main)
+    * [**clone-hellouiux**](https://github.com/HaeChan-Jeon/clone-hellouiux)
 
 ***
 
@@ -30,5 +31,6 @@
     * [**clone-timothy-snyder**](https://github.com/HaeChan-Jeon/clone-timothy-snyder/tree/main) (12/17 | CSS -> CLONE -> clone-timothy-snyder)
     * [**clone-high-end-fashion-store**](https://github.com/HaeChan-Jeon/clone-high-end-fashion-store/tree/main) (12/17 | CSS -> CLONE -> clone-high-end-fashion-store)
     * [**clone-beauty-store**](https://github.com/HaeChan-Jeon/clone-beauty-store/tree/main) (12/17 | CSS -> CLONE -> clone-beauty-store)
+    * [**clone-hellouiux**](https://github.com/HaeChan-Jeon/clone-hellouiux) (12/17 | CSS -> CLONE -> clone-hellouiux)
   
 ***
