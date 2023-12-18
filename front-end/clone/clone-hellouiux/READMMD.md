@@ -2,7 +2,7 @@
  
 ***
 
-![image](https://github.com/HaeChan-Jeon/clone-hellouiux/assets/146603024/00c589ac-9e02-48be-aae2-e089d254cfb9)
+![image](https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/6576c7a8-2017-4bd0-a8ee-e9491f3b0aa7)
 
 ***
 
