@@ -35,6 +35,6 @@
     * [**clone-high-end-fashion-store**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-high-end-fashion-store) (12/17 | FRONT-END -> CLONE -> clone-high-end-fashion-store)
     * [**clone-beauty-store**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-beauty-store) (12/17 | FRONT-END -> CLONE -> clone-beauty-store)
     * [**clone-hellouiux**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-hellouiux) (12/17 | FRONT-END -> CLONE -> clone-hellouiux)
-    * [**clone-speakers-artists**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-speakers-artists) (12/17 | FRONT-END -> CLONE -> clone-speakers-artists)
+    * [**clone-speakers-artists**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-speakers-artists) (12/18 | FRONT-END -> CLONE -> clone-speakers-artists)
   
 ***
