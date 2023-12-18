@@ -10,6 +10,7 @@
     * [**clone-high-end-fashion-store**](https://github.com/HaeChan-Jeon/clone-high-end-fashion-store/tree/main)
     * [**clone-beauty-store**](https://github.com/HaeChan-Jeon/clone-beauty-store/tree/main)
     * [**clone-hellouiux**](https://github.com/HaeChan-Jeon/clone-hellouiux)
+    * [**clone-speakers-artists**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-speakers-artists)
 
 * CSS
   * SCSS
@@ -34,5 +35,6 @@
     * [**clone-high-end-fashion-store**](https://github.com/HaeChan-Jeon/clone-high-end-fashion-store/tree/main) (12/17 | FRONT-END -> CLONE -> clone-high-end-fashion-store)
     * [**clone-beauty-store**](https://github.com/HaeChan-Jeon/clone-beauty-store/tree/main) (12/17 | FRONT-END -> CLONE -> clone-beauty-store)
     * [**clone-hellouiux**](https://github.com/HaeChan-Jeon/clone-hellouiux) (12/17 | FRONT-END -> CLONE -> clone-hellouiux)
+    * [**clone-speakers-artists**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-speakers-artists) (12/17 | FRONT-END -> CLONE -> clone-speakers-artists)
   
 ***
