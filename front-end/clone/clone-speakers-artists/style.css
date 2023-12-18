@@ -1,0 +1,122 @@
+body {
+    height: 100vh;
+    width: 96vw;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0px auto;
+}
+
+
+ul {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+.content__text {
+    padding-left: 10px;
+}
+
+.content__text ul {
+    display: flex;
+    flex-direction: column;
+    height: 95%;
+    justify-content: space-between;
+}
+
+.content__subgrid {
+    display: flex;
+    gap: 25px;
+}
+
+.content__text-item {
+    font-size: 24px;
+}
+
+.wrap {
+    display: grid;
+    grid-template-rows: 1fr 20fr;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    background-color: #BDBEC0;
+}
+
+.header__left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 25px;
+    gap: 10px;
+}
+
+.header__left-btn {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    border: 2px solid #9FA0A4;
+}
+
+.header__mid {
+    display: flex;
+    height: 10px;
+    border: 2px solid #9FA0A4;
+    align-self: center;
+    border-radius: 10px;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: repeat(4, 24vw);
+    grid-template-rows: repeat(3, 24vw);
+}
+
+.content__grid {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.content__grid:first-child {
+    background-color: black;
+    color: white;
+}
+
+.content__grid:first-child li:nth-child(2n){
+    display: inline-block;
+    transform: scaleY(-1);
+}
+
+.content__grid:nth-child(2) {
+    background-color: #6C01FF;
+}
+
+.content__text:nth-child(3) {
+    grid-row: span 3;
+}
+
+.content__text:nth-child(4) {
+    grid-row: span 3;
+}
+
+.content__grid:nth-child(5) {
+    background-color: #FF1502;
+    grid-row: span 2;
+}
+
+.content__grid:nth-child(7) {
+    background-color: #F2BF04;
+}
+
+.content__text:nth-child(3) .content__text-item:nth-child(6) {
+    display: flex;
+}
+
+.content__text:nth-child(3) .content__text-item:nth-child(6) span {
+    background-color: #6D01FE;
+}
+
+.content__text-header {
+    margin: 10px 0px 10px 0px;
+}
