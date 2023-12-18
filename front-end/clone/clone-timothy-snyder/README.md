@@ -2,7 +2,7 @@
  
 ***
 
-![image](https://github.com/HaeChan-Jeon/clone-timothy-snyder/assets/146603024/63505220-b878-49e1-a7cd-562050b1c6bb)
+![image](https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/35ef80a3-beaf-417e-8832-667a212e6920)
 
 ***
 
