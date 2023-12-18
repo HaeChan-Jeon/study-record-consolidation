@@ -2,7 +2,7 @@
  
 ***
 
-![image](https://github.com/HaeChan-Jeon/clone-high-end-fashion-store/assets/146603024/ff581d66-5d7c-4e9d-9fd1-fb04fe9e53f3)
+![image](https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/aa82de19-e9f7-4d27-ac46-8c782c99d589)
 
 ***
 
