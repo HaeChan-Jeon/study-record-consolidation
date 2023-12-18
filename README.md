@@ -20,6 +20,9 @@
     * [**@content**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@content)
     * [**@media**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/@media)
 
+* JAVASCRIPT
+  * VANILLA
+
 ***
 
 ## Classification by Date
