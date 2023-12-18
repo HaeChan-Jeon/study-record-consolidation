@@ -22,6 +22,9 @@
 
 * JAVASCRIPT
   * VANILLA
+    * [**calculator**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/calculator)
+    * [**return**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/return)
+    * [**conditional**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/conditional)
 
 ***
 
@@ -39,5 +42,8 @@
     * [**clone-beauty-store**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-beauty-store) (12/17 | FRONT-END -> CLONE -> clone-beauty-store)
     * [**clone-hellouiux**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-hellouiux) (12/17 | FRONT-END -> CLONE -> clone-hellouiux)
     * [**clone-speakers-artists**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-speakers-artists) (12/18 | FRONT-END -> CLONE -> clone-speakers-artists)
-  
+    * [**calculator**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/calculator) (12/18 | JAVASCRIPT -> VANILLA -> calculator)
+    * [**return**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/return) (12/18 | JAVASCRIPT -> VANILLA -> return)
+    * [**conditional**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/conditional) (12/18 | JAVASCRIPT -> VANILLA -> conditional)
+
 ***
