@@ -2,7 +2,7 @@
  
 ***
 
-![image](https://github.com/HaeChan-Jeon/clone-beauty-store/assets/146603024/3d7dbf26-2976-49ce-a4d9-e1b89a62891b)
+![image](https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/1b1b3912-b477-47a6-8b52-985c6770b875)
 
 ***
 
