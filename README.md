@@ -30,6 +30,9 @@
     * [**calculator**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/calculator)
     * [**return**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/return)
     * [**conditional**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/conditional)
+    * [**document**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/document)
+    * [**getElementByID**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/getElementByID)
+    * [**querySelector**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/querySelector)
 
 ***
 
@@ -51,5 +54,8 @@
     * [**return**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/return) (12/18 | JAVASCRIPT -> VANILLA -> return)
     * [**conditional**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/conditional) (12/18 | JAVASCRIPT -> VANILLA -> conditional)
     * [**clone-curry-cafe**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-curry-cafe) (12/19 | FRONT-END -> CLONE -> clone-curry-cafe)
+    * [**document**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/document) (12/19 | JAVASCRIPT -> VANILLA -> document)
+    * [**getElementByID**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/getElementByID) (12/19 | JAVASCRIPT -> VANILLA -> getElementByID)
+    * [**querySelector**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/querySelector) (12/19 | JAVASCRIPT -> VANILLA -> querySelector)
 
 ***
