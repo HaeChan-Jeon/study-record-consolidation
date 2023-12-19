@@ -15,6 +15,7 @@
     * [**clone-beauty-store**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-beauty-store)
     * [**clone-hellouiux**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-hellouiux)
     * [**clone-speakers-artists**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-speakers-artists)
+    * [**clone-curry-cafe**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-curry-cafe)
 
 * CSS
   * SCSS
@@ -49,5 +50,6 @@
     * [**calculator**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/calculator) (12/18 | JAVASCRIPT -> VANILLA -> calculator)
     * [**return**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/return) (12/18 | JAVASCRIPT -> VANILLA -> return)
     * [**conditional**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/conditional) (12/18 | JAVASCRIPT -> VANILLA -> conditional)
+    * [**clone-curry-cafe**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-curry-cafe) (12/19 | FRONT-END -> CLONE -> clone-curry-cafe)
 
 ***
