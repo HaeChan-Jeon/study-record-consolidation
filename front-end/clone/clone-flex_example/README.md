@@ -36,7 +36,7 @@
 4. **Body 요소 (`<body>`):** 이 부분에는 웹 페이지의 내용이 포함됩니다.
     - `div.header`: 페이지의 헤더 섹션입니다. 연도, 프로그램, 테마, 관행, 학생 등의 카테고리를 포함하며, 각각 드롭다운 아이콘(`fa-solid fa-caret-down`)이 포함되어 있습니다.
 
-    ```HTML
+```HTML
       <div class="header">
     <div class="year">
       <span>Year: All</span>
@@ -59,86 +59,86 @@
       <i class="fa-solid fa-caret-down"></i>
     </div>
   </div>
-    ```
+```
 
     - `<main>`: 페이지의 주요 내용을 나타냅니다. 여러 `div.section` 요소가 있으며, 각 섹션에는 학생의 이름, 학위, 사진 (`img` 태그를 통해 `https://source.unsplash.com/random`에서 무작위 이미지를 불러옴), 연도, 추가 정보 링크가 포함됩니다.
 
-    ```HTML
-      <main>
-    <div class="section">
-      <div class="sub-section">
-        <span>Kate Bedford</span>
-        <span>pgdipfa</span>
-      </div>
-      <img src="https://source.unsplash.com/random">
-      <div class="sub-section">
-        <span>2016</span>
-        <span>Read more</span>
-      </div>
+```HTML
+<main>
+  <div class="section">
+    <div class="sub-section">
+      <span>Kate Bedford</span>
+      <span>pgdipfa</span>
     </div>
-    <div class="section">
-      <div class="sub-section">
-        <span>Patricla Ramos</span>
-        <span>bfa(hons)</span>
-      </div>
-      <img src="https://source.unsplash.com/random">
-      <div class="sub-section">
-        <span>2016</span>
-        <span>Read more</span>
-      </div>
+    <img src="https://source.unsplash.com/random">
+    <div class="sub-section">
+      <span>2016</span>
+      <span>Read more</span>
     </div>
-    <div class="section">
-      <div class="sub-section">
-        <span>Trevor Newman</span>
-        <span>nfa</span>
-      </div>
-      <img src="https://source.unsplash.com/random">
-      <div class="sub-section">
-        <span>2016</span>
-        <span>Read more</span>
-      </div>
+  </div>
+  <div class="section">
+    <div class="sub-section">
+      <span>Patricla Ramos</span>
+      <span>bfa(hons)</span>
     </div>
-    <div class="section">
-      <div class="sub-section">
-        <span>Kristina Leggett</span>
-        <span>bfa(hons)</span>
-      </div>
-      <img src="https://source.unsplash.com/random">
-      <div class="sub-section">
-        <span>2016</span>
-        <span>Read more</span>
-      </div>
+    <img src="https://source.unsplash.com/random">
+    <div class="sub-section">
+      <span>2016</span>
+      <span>Read more</span>
     </div>
-    <div class="section">
-      <div class="sub-section">
-        <span>JoAnne Raill</span>
-        <span>pgdipfa</span>
-      </div>
-      <img src="https://source.unsplash.com/random">
-      <div class="sub-section">
-        <span>2016</span>
-        <span>Read more</span>
-      </div>
+  </div>
+  <div class="section">
+    <div class="sub-section">
+      <span>Trevor Newman</span>
+      <span>nfa</span>
     </div>
-    <div class="section">
-      <div class="sub-section">
-        <span>Emma Chalmers</span>
-        <span>mfa</span>
-      </div>
-      <img src="https://source.unsplash.com/random">
-      <div class="sub-section">
-        <span>2016</span>
-        <span>Read more</span>
-      </div>
+    <img src="https://source.unsplash.com/random">
+    <div class="sub-section">
+      <span>2016</span>
+      <span>Read more</span>
     </div>
-  </main>
-    ```
+  </div>
+  <div class="section">
+    <div class="sub-section">
+      <span>Kristina Leggett</span>
+      <span>bfa(hons)</span>
+    </div>
+    <img src="https://source.unsplash.com/random">
+    <div class="sub-section">
+      <span>2016</span>
+      <span>Read more</span>
+    </div>
+  </div>
+  <div class="section">
+    <div class="sub-section">
+      <span>JoAnne Raill</span>
+      <span>pgdipfa</span>
+    </div>
+    <img src="https://source.unsplash.com/random">
+    <div class="sub-section">
+      <span>2016</span>
+      <span>Read more</span>
+    </div>
+  </div>
+  <div class="section">
+    <div class="sub-section">
+      <span>Emma Chalmers</span>
+      <span>mfa</span>
+    </div>
+    <img src="https://source.unsplash.com/random">
+    <div class="sub-section">
+      <span>2016</span>
+      <span>Read more</span>
+    </div>
+  </div>
+</main>
+```
 
 
 5. **Script 요소 (`<script>`):** FontAwesome의 스크립트를 포함하여 웹 페이지에서 아이콘을 사용할 수 있도록 합니다.
 
 ```HTML
-  <script src="https://kit.fontawesome.com/2f0bc1a8ee.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/2f0bc1a8ee.js" crossorigin="anonymous"></script>
 ```
 
 * 이 코드는 특히 학생들의 프로필을 표시하는 웹 페이지의 레이아웃을 구성하는 데 사용됩니다.
@@ -165,7 +165,13 @@
 
 
 ```SCSS
-@import url(./reset.scss);
+body {
+    display: grid;
+    grid-template-rows: 1fr 20fr;
+    margin: 5px;
+    background-color: black;
+    gap: 2px;
+}
 ```
 
 3. **Header Selector (`.header`):**
