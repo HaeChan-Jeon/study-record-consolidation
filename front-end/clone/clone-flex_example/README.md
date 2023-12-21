@@ -1,7 +1,11 @@
 # clone-flex-example
- 
+
 ***
 
+<img src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/245406a6-af13-4bdc-8440-fee61f807d04">
+
+***
+ 
 ## index.html
 
 * 이 HTML 코드는 웹 페이지의 구조와 내용을 정의합니다. 각 부분에 대해 설명하겠습니다:
@@ -252,9 +256,5 @@ img {
 
 * 이 스타일시트는 그리드와 플렉스박스 레이아웃을 사용하여 요소를 구성하고, 간격과 배치를 조정하며, 텍스트와 이미지 스타일을 정의합니다.
 * 전체적으로 모던하고 구조화된 레이아웃을 생성하는 데 중점을 둡니다.
-
-***
-
-<img src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/245406a6-af13-4bdc-8440-fee61f807d04">
 
 ***
