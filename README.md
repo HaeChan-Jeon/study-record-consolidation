@@ -18,6 +18,9 @@
     * [**clone-curry-cafe**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-curry-cafe)
 
 * CSS
+  * LAYOUT
+    * [**flex-shrink**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/layout/flex-shrink
+)
   * SCSS
     * [**Nesting**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/nesting)
     * [**@extend**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/%40extend)
@@ -57,5 +60,7 @@
     * [**document**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/document) (12/19 | JAVASCRIPT -> VANILLA -> document)
     * [**getElementByID**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/getElementByID) (12/19 | JAVASCRIPT -> VANILLA -> getElementByID)
     * [**querySelector**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/querySelector) (12/19 | JAVASCRIPT -> VANILLA -> querySelector)
+    * [**flex-shrink**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/layout/flex-shrink
+) (12/21 | CSS -> LAYOUT -> flex-shrink)
 
 ***
