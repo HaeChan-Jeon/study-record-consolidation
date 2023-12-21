@@ -1,0 +1,56 @@
+@import url(./reset.scss);
+
+body {
+    display: grid;
+    grid-template-rows: 1fr 20fr;
+    margin: 5px;
+    background-color: black;
+    gap: 2px;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    background: black;
+    gap: 2px;
+    div {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: white;
+        padding: 5px;
+    }
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 2px;
+    .section {
+        display: grid;
+        grid-template-rows: 1fr 5fr 1fr;
+        background-color: white;
+        padding: 5px;
+        .sub-section {
+            display: flex;
+            justify-content: space-between;
+        }
+        .sub-section:nth-child(3) {
+            align-items: flex-end;
+        }
+        .sub-section:first-child span:nth-child(2) {
+            text-transform: uppercase;
+        }
+        .sub-section:nth-child(3) span:nth-child(2) {
+            text-decoration: underline;
+        }
+        img {
+            justify-self: center;
+            align-self: center;
+            width: 50%;
+            height: 50%;
+            object-fit: cover;
+        }
+    }
+}
