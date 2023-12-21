@@ -16,6 +16,7 @@
     * [**clone-hellouiux**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-hellouiux)
     * [**clone-speakers-artists**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-speakers-artists)
     * [**clone-curry-cafe**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-curry-cafe)
+    * [**clone-flex-example**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-flex_example)
 
 * CSS
   * LAYOUT
@@ -62,5 +63,6 @@
     * [**querySelector**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/querySelector) (12/19 | JAVASCRIPT -> VANILLA -> querySelector)
     * [**flex-shrink**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/layout/flex-shrink
 ) (12/21 | CSS -> LAYOUT -> flex-shrink)
+    * [**clone-flex-example**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-flex_example)  (12/21 | FRONT-END -> CLONE -> clone-flex-example)
 
 ***
