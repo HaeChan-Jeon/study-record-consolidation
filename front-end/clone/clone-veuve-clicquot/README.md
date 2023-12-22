@@ -1,6 +1,8 @@
 # clone-veuve-clicquot
  
 ***
+<img width="960" alt="image" src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/3150a9d2-b0a9-4bd5-a08d-2447c288bb73">
+***
 
 ## style.scss
 
@@ -188,6 +190,4 @@ body {
 
 * 전반적으로 이 CSS 코드는 웹페이지에 다양한 레이아웃과 시각적 요소를 제공하며, 그리드와 플렉스박스 레이아웃을 효과적으로 활용하여 복잡한 구조를 생성합니다.
 
-***
-<img width="960" alt="image" src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/3150a9d2-b0a9-4bd5-a08d-2447c288bb73">
 ***
