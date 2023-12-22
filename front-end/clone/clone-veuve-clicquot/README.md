@@ -4,8 +4,6 @@
 
 <img width="960" alt="image" src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/3150a9d2-b0a9-4bd5-a08d-2447c288bb73">
 
-***
-
 ## style.scss
 
 * 이 CSS 코드는 웹페이지의 레이아웃과 스타일을 정의하는데 사용됩니다. 주요 특징은 다음과 같습니다:
