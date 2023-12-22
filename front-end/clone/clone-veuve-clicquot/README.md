@@ -2,7 +2,9 @@
  
 ***
 
-<img width="960" alt="image" src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/3150a9d2-b0a9-4bd5-a08d-2447c288bb73">
+<img src="https://github.com/HaeChan-Jeon/study-record-consolidation/assets/146603024/3150a9d2-b0a9-4bd5-a08d-2447c288bb73">
+
+***
 
 ## style.scss
 
