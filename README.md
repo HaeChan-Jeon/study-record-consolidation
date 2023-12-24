@@ -18,6 +18,7 @@
     * [**clone-curry-cafe**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-curry-cafe)
     * [**clone-flex-example**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-flex_example)
     * [**clone-veuve-clicquot**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-veuve-clicquot)
+    * [**clone-office**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-office)
 
 * CSS
   * LAYOUT
@@ -66,5 +67,6 @@
 ) (12/21 | CSS -> LAYOUT -> flex-shrink)
     * [**clone-flex-example**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-flex_example) (12/21 | FRONT-END -> CLONE -> clone-flex-example)
     * [**clone-veuve-clicquot**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-veuve-clicquot) (12/22 | FRONT-END -> CLONE -> clone-veuve-clicquot)
+    * [**clone-office**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-office) (12/24 | FRONT-END -> CLONE -> clone-office)
 
 ***
