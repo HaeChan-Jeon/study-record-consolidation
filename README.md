@@ -5,8 +5,10 @@
 ## Classification by Topic
 
 * ING
-  * CLONE
-    * [**clone-coupang**](https://github.com/HaeChan-Jeon/clone-coupang/tree/main) (12/18 ~ )
+  * BACK-END
+    * C#
+  * DATABASE
+    * PostgreSQL
 
 * FRONT-END
   * CLONE
@@ -19,11 +21,11 @@
     * [**clone-flex-example**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-flex_example)
     * [**clone-veuve-clicquot**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-veuve-clicquot)
     * [**clone-office**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-office)
+    * [**clone-coupang**](https://github.com/HaeChan-Jeon/clone-coupang/tree/main)
 
 * CSS
   * LAYOUT
-    * [**flex-shrink**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/layout/flex-shrink
-)
+    * [**flex-shrink**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/layout/flex-shrink)
   * SCSS
     * [**Nesting**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/nesting)
     * [**@extend**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/%40extend)
@@ -45,7 +47,7 @@
 ## Classification by Date
 
 * 2023
-  * December
+  * 4th Quarter
     * [**Nesting**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/nesting) (12/16 | CSS -> SCSS -> Nesting)
     * [**@extend**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/%40extend) (12/16 | CSS -> SCSS -> @extend)
     * [**Mixins**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/css/scss/mixins) (12/16 | CSS -> SCSS -> Mixins)
@@ -68,5 +70,9 @@
     * [**clone-flex-example**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-flex_example) (12/21 | FRONT-END -> CLONE -> clone-flex-example)
     * [**clone-veuve-clicquot**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-veuve-clicquot) (12/22 | FRONT-END -> CLONE -> clone-veuve-clicquot)
     * [**clone-office**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-office) (12/24 | FRONT-END -> CLONE -> clone-office)
+    * [**clone-coupang**](https://github.com/HaeChan-Jeon/clone-coupang/tree/main) (12/31 | clone-coupang)
+
+* 2024
+  * 1st Quarter
 
 ***
