@@ -1,0 +1,14 @@
+D:\Code\Study\2024\C#\Write\Write\bin\Debug\net8.0\Write.exe
+D:\Code\Study\2024\C#\Write\Write\bin\Debug\net8.0\Write.deps.json
+D:\Code\Study\2024\C#\Write\Write\bin\Debug\net8.0\Write.runtimeconfig.json
+D:\Code\Study\2024\C#\Write\Write\bin\Debug\net8.0\Write.dll
+D:\Code\Study\2024\C#\Write\Write\bin\Debug\net8.0\Write.pdb
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\Write.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\Write.AssemblyInfoInputs.cache
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\Write.AssemblyInfo.cs
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\Write.csproj.CoreCompileInputs.cache
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\Write.dll
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\refint\Write.dll
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\Write.pdb
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\Write.genruntimeconfig.cache
+D:\Code\Study\2024\C#\Write\Write\obj\Debug\net8.0\ref\Write.dll
