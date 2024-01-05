@@ -9,6 +9,7 @@
     * C#
   * DATABASE
     * PostgreSQL
+  * GIT
   * UI
     * CLONE
 
