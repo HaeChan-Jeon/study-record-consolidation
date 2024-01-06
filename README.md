@@ -7,6 +7,8 @@
 ### ING
   * BACK-END
     * C#
+      * [**HelloWorld**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/HelloWorld)
+      * [**Write**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/Write)
   * DATABASE
     * PostgreSQL
   * GIT
@@ -77,5 +79,7 @@
 
 ### 2024
   * 1st Quarter
+    * [**HelloWorld**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/HelloWorld) (01/05 | BACK-END -> C# -> HelloWorld)
+    * [**Write**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/Write) (01/05 | BACK-END -> C# -> Write)
 
 ***
