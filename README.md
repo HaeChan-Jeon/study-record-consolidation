@@ -11,6 +11,8 @@
       * [**Write**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/Write)
   * DATABASE
     * PostgreSQL
+      * [**데이터베이스의 정의 및 데이터의 분류**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/001_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EB%B6%84%EB%A5%98.md)
+
   * GIT
   * UI
     * CLONE
@@ -81,6 +83,6 @@
   * 1st Quarter
     * [**HelloWorld**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/HelloWorld) (01/05 | BACK-END -> C# -> HelloWorld)
     * [**Write**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/Write) (01/05 | BACK-END -> C# -> Write)
-
+    * [**데이터베이스의 정의 및 데이터의 분류**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/001_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EB%B6%84%EB%A5%98.md) (01/08 | DATABASE -> PostgreSQL -> 001_데이터베이스의 정의 및 데이터의 분류)
 
 ***
