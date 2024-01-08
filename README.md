@@ -12,7 +12,13 @@
   * DATABASE
     * PostgreSQL
       * [**데이터베이스의 정의 및 데이터의 분류**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/001_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EB%B6%84%EB%A5%98.md)
-
+  * JAVASCRIPT
+    * VANILLA
+      * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample)
+      * [**VSCodeExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/002_VSCodeExample)
+      * [**VariableConcept**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/003_VariableConcept)
+      * [**VariableDeclaration**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/004_VariableDeclaration)
+      * [**IdentifierExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/005_IdentifierExample)
   * GIT
   * UI
     * CLONE
@@ -84,5 +90,10 @@
     * [**HelloWorld**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/HelloWorld) (01/05 | BACK-END -> C# -> HelloWorld)
     * [**Write**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/back-end/c%23/Write) (01/05 | BACK-END -> C# -> Write)
     * [**데이터베이스의 정의 및 데이터의 분류**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/001_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EB%B6%84%EB%A5%98.md) (01/08 | DATABASE -> PostgreSQL -> 001_데이터베이스의 정의 및 데이터의 분류)
+      * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample) (01/08 |  JAVASCRIPT -> VANILLA -> 001_ErrorExample)
+      * [**VSCodeExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/002_VSCodeExample) (01/08 |  JAVASCRIPT -> VANILLA -> 002_VSCodeExample)
+      * [**VariableConcept**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/003_VariableConcept) (01/08 |  JAVASCRIPT -> VANILLA -> 003_VariableConcept)
+      * [**VariableDeclaration**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/004_VariableDeclaration) (01/08 |  JAVASCRIPT -> VANILLA -> 004_VariableDeclaration)
+      * [**IdentifierExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/005_IdentifierExample) (01/08 |  JAVASCRIPT -> VANILLA -> 005_IdentifierExample)
 
 ***
