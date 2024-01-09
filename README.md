@@ -25,6 +25,7 @@
       * [**Promise**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/009_Promise/README.md)
   * GIT
     * [**git 시작하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/001_git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+    * [**풀 리퀘스트(Pull Request)란 무엇인가?**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/002_%ED%92%80%20%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8(Pull%20Request)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md)
   * UI
     * CLONE
 
@@ -105,5 +106,6 @@
     * [**HTML Component 삽입 예제**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/008_HTML%20Component%20%EC%82%BD%EC%9E%85%20%EC%98%88%EC%A0%9C/README.md) (01/09 |  JAVASCRIPT -> VANILLA -> 008_HTML Component 삽입 예제)
     * [**Promise**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/009_Promise/README.md) (01/09 |  JAVASCRIPT -> VANILLA -> 009_Promise)
     * [**git 시작하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/001_git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md) (01/09 |  GIT -> 001_git 시작하기)
+    * [**풀 리퀘스트(Pull Request)란 무엇인가?**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/002_%ED%92%80%20%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8(Pull%20Request)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md) (01/09 |  GIT -> 002_풀 리퀘스트(Pull Request)란 무엇인가?)
 
 ***
