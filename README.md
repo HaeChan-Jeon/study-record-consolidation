@@ -24,6 +24,7 @@
       * [**HTML Component 삽입 예제**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/008_HTML%20Component%20%EC%82%BD%EC%9E%85%20%EC%98%88%EC%A0%9C/README.md)
       * [**Promise**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/009_Promise/README.md)
   * GIT
+    * [**git 시작하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/001_git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
   * UI
     * CLONE
 
@@ -100,8 +101,9 @@
     * [**VariableDeclaration**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/004_VariableDeclaration/variableDeclaration.js) (01/08 |  JAVASCRIPT -> VANILLA -> 004_VariableDeclaration)
     * [**IdentifierExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/005_IdentifierExample/identifierExample.js) (01/08 |  JAVASCRIPT -> VANILLA -> 005_IdentifierExample)
     * [**pgAdmin4**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/002_pgAdmin%204.md) (01/09 | DATABASE -> PostgreSQL -> 002_pgAdmin4)
-    * [**DataType**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/007_DataType/dataType.js) (01/08 |  JAVASCRIPT -> VANILLA -> 007_DataType)
-    * [**HTML Component 삽입 예제**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/008_HTML%20Component%20%EC%82%BD%EC%9E%85%20%EC%98%88%EC%A0%9C/README.md) (01/08 |  JAVASCRIPT -> VANILLA -> 008_HTML Component 삽입 예제)
-    * [**Promise**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/009_Promise/README.md) (01/08 |  JAVASCRIPT -> VANILLA -> 009_Promise)
+    * [**DataType**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/007_DataType/dataType.js) (01/09 |  JAVASCRIPT -> VANILLA -> 007_DataType)
+    * [**HTML Component 삽입 예제**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/008_HTML%20Component%20%EC%82%BD%EC%9E%85%20%EC%98%88%EC%A0%9C/README.md) (01/09 |  JAVASCRIPT -> VANILLA -> 008_HTML Component 삽입 예제)
+    * [**Promise**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/009_Promise/README.md) (01/09 |  JAVASCRIPT -> VANILLA -> 009_Promise)
+    * [**git 시작하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/001_git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md) (01/09 |  GIT -> 001_git 시작하기)
 
 ***
