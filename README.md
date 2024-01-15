@@ -16,6 +16,7 @@
       * [**PostgreSQL의 프로세스 구조**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/003_PostgreSQL%EC%9D%98%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B5%AC%EC%A1%B0.md)
       * [**psql 기초_1**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/004_psql%20%EA%B8%B0%EC%B4%88_1.md)
       * [**데이터 추가하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/005_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.md)
+      * [**데이터 수정하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/006_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)
   * JAVASCRIPT
     * VANILLA
       * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample/errorExample.html)
@@ -117,5 +118,6 @@
      * [**자바스크립트 첫 번째 버전의 버그**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/010_JSFirstBug/JSFirstBug.md) (01/11 |  JAVASCRIPT -> VANILLA -> 010_JSFirstBug)
      * [**제어문 1**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/011_controlFlowStatement_1/controlFlowStatement_1.md) (01/11 |  JAVASCRIPT -> VANILLA -> 011_controlFlowStatement_1)
     * [**데이터 추가하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/005_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.md) (01/12 | DATABASE -> PostgreSQL -> 005_데이터 추가하기)
+    * [**데이터 수정하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/006_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md) (01/15 | DATABASE -> PostgreSQL -> 006_데이터 수정하기)
 
 ***
