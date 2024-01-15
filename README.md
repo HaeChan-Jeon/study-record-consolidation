@@ -66,7 +66,6 @@
     * [**document**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/document)
     * [**getElementByID**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/getElementByID)
     * [**querySelector**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/querySelector)
-
 ***
 
 ## Classification by Date
