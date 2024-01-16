@@ -17,6 +17,7 @@
       * [**psql 기초_1**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/004_psql%20%EA%B8%B0%EC%B4%88_1.md)
       * [**데이터 추가하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/005_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0.md)
       * [**데이터 수정하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/006_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)
+      * [**데이터 삭제하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/007_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
   * JAVASCRIPT
     * VANILLA
       * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample/errorExample.html)
@@ -142,5 +143,6 @@
     * [**암묵적 타입 변환(불리언)**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/021_%EC%95%94%EB%AC%B5%EC%A0%81%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98(%EB%B6%88%EB%A6%AC%EC%96%B8)/implicit%20coercion_boolean.md) (01/12 |  JAVASCRIPT -> VANILLA -> 021_암묵적 타입 변환(불리언))
     * [**문자열 연결(concatenation)**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/022_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%B0%EA%B2%B0(concatenation)) (01/12 |  JAVASCRIPT -> VANILLA -> 022_문자열 연결(concatenation))
     * [**Truthy**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/023_Truthy/Truthy.md) (01/12 |  JAVASCRIPT -> VANILLA -> 023_Truthy)
+    * [**데이터 삭제하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/007_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md) (01/16 | DATABASE -> PostgreSQL -> 007_데이터 삭제하기)
 
 ***
