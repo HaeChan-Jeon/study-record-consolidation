@@ -19,8 +19,8 @@
       * [**데이터 수정하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/006_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)
       * [**데이터 삭제하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/007_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
       * [**숫자형 (Numeric Types) 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/008_%EC%88%AB%EC%9E%90%ED%98%95%20(Numeric%20Types)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
-      * [**009_문자형 (Character Types) 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/009_%EB%AC%B8%EC%9E%90%ED%98%95%20(Character%20Types)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
-      * [**010_날짜 및 시간 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/010_%EB%82%A0%EC%A7%9C%20%EB%B0%8F%20%EC%8B%9C%EA%B0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
+      * [**문자형 (Character Types) 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/009_%EB%AC%B8%EC%9E%90%ED%98%95%20(Character%20Types)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
+      * [**날짜 및 시간 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/010_%EB%82%A0%EC%A7%9C%20%EB%B0%8F%20%EC%8B%9C%EA%B0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md)
   * JAVASCRIPT
     * VANILLA
       * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample/errorExample.html)
@@ -148,7 +148,7 @@
     * [**Truthy**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/023_Truthy/Truthy.md) (01/12 |  JAVASCRIPT -> VANILLA -> 023_Truthy)
     * [**데이터 삭제하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/007_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md) (01/16 | DATABASE -> PostgreSQL -> 007_데이터 삭제하기)
     * [**숫자형 (Numeric Types) 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/008_%EC%88%AB%EC%9E%90%ED%98%95%20(Numeric%20Types)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md) (01/17 | DATABASE -> PostgreSQL -> 008_숫자형 (Numeric Types) 데이터 타입)
-    * [**009_문자형 (Character Types) 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/009_%EB%AC%B8%EC%9E%90%ED%98%95%20(Character%20Types)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md) (01/18 | DATABASE -> PostgreSQL -> 009_문자형 (Character Types) 데이터 타입)
-    * [**010_날짜 및 시간 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/010_%EB%82%A0%EC%A7%9C%20%EB%B0%8F%20%EC%8B%9C%EA%B0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md) (01/19 | DATABASE -> PostgreSQL -> 010_날짜 및 시간 데이터 타입)
+    * [**문자형 (Character Types) 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/009_%EB%AC%B8%EC%9E%90%ED%98%95%20(Character%20Types)%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md) (01/18 | DATABASE -> PostgreSQL -> 009_문자형 (Character Types) 데이터 타입)
+    * [**날짜 및 시간 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/010_%EB%82%A0%EC%A7%9C%20%EB%B0%8F%20%EC%8B%9C%EA%B0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md) (01/19 | DATABASE -> PostgreSQL -> 010_날짜 및 시간 데이터 타입)
 
 ***
