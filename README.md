@@ -47,6 +47,8 @@
       * [**암묵적 타입 변환(불리언)**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/021_%EC%95%94%EB%AC%B5%EC%A0%81%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98(%EB%B6%88%EB%A6%AC%EC%96%B8)/implicit%20coercion_boolean.md)
       * [**문자열 연결(concatenation)**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/022_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%97%B0%EA%B2%B0(concatenation))
       * [**Truthy**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/023_Truthy/Truthy.md)
+      * [**단축 평가**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/024_%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80/%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80.md)
+      * [**객체 리터널_01**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/025_%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%84%90_01/%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%84%90_01.md)
   * GIT
     * [**git 시작하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/001_git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
     * [**풀 리퀘스트(Pull Request)란 무엇인가?**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/002_%ED%92%80%20%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8(Pull%20Request)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md)
@@ -154,5 +156,7 @@
     * [**날짜 및 시간 데이터 타입**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/010_%EB%82%A0%EC%A7%9C%20%EB%B0%8F%20%EC%8B%9C%EA%B0%84%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md) (01/19 | DATABASE -> PostgreSQL -> 010_날짜 및 시간 데이터 타입)
     * [**데이터 무결성의 개념**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/011_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1%EC%9D%98%20%EA%B0%9C%EB%85%90.md) (01/22 | DATABASE -> PostgreSQL -> 011_데이터 무결성의 개념)
     * [**데이터 무결성의 유형**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/012_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1%EC%9D%98%20%EC%9C%A0%ED%98%95.md) (01/23 | DATABASE -> PostgreSQL -> 012_데이터 무결성의 유형)
-
+      * [**단축 평가**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/024_%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80/%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80.md) (01/23 |  JAVASCRIPT -> VANILLA -> 024_단축 평가)
+      * [**객체 리터널_01**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/025_%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%84%90_01/%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%84%90_01.md) (01/23 |  JAVASCRIPT -> VANILLA -> 025_객체 리터널_01)
+     
 ***
