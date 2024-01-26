@@ -52,10 +52,10 @@
       * [**객체 리터널_01**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/025_%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%84%90_01/%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%84%90_01.md)
       * [**원시값**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/026_%EC%9B%90%EC%8B%9C%EA%B0%92/%EC%9B%90%EC%8B%9C%EA%B0%92.md)
       * [**객체**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/027_%EA%B0%9D%EC%B2%B4/%EA%B0%9D%EC%B2%B4.md)
+      * [**new 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/028_new%20%EC%97%B0%EC%82%B0%EC%9E%90/new%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
   * GIT
     * [**git 시작하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/001_git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
     * [**풀 리퀘스트(Pull Request)란 무엇인가?**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/002_%ED%92%80%20%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8(Pull%20Request)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md)
-    * [**new 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/028_new%20%EC%97%B0%EC%82%B0%EC%9E%90/new%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
   * UX
     * [**Date-Input Form Fields**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/UX/Date-Input%20Form%20Fields/README.md)
   * UI
