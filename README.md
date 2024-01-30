@@ -24,7 +24,8 @@
       * [**데이터 무결성의 개념**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/011_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1%EC%9D%98%20%EA%B0%9C%EB%85%90.md)
       * [**데이터 무결성의 유형**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/012_%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AC%B4%EA%B2%B0%EC%84%B1%EC%9D%98%20%EC%9C%A0%ED%98%95.md)
       * [**칼럼 값 제한하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/013_%EC%B9%BC%EB%9F%BC%20%EA%B0%92%20%EC%A0%9C%ED%95%9C%ED%95%98%EA%B8%B0.md)
-      * [**논리연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/014_%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)
+      * [**논리 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/014_%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)
+      * [**비교 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/015_%EB%B9%84%EA%B5%90%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
   * JAVASCRIPT
     * VANILLA
       * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample/errorExample.html)
@@ -170,6 +171,7 @@
     * [**원시값**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/026_%EC%9B%90%EC%8B%9C%EA%B0%92/%EC%9B%90%EC%8B%9C%EA%B0%92.md) (01/25 |  JAVASCRIPT -> VANILLA -> 026_원시값)
     * [**객체**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/027_%EA%B0%9D%EC%B2%B4/%EA%B0%9D%EC%B2%B4.md) (01/25 |  JAVASCRIPT -> VANILLA -> 027_객체)
     * [**new 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/028_new%20%EC%97%B0%EC%82%B0%EC%9E%90/new%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (01/26 |  JAVASCRIPT -> VANILLA -> 028_new 연산자자)
-    * [**논리연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/014_%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)  (01/29 | DATABASE -> PostgreSQL -> 014_논리연산자)
+    * [**논리 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/014_%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)  (01/29 | DATABASE -> PostgreSQL -> 014_논리 연산자)
+    * [**비교 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/015_%EB%B9%84%EA%B5%90%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (01/30 | DATABASE -> PostgreSQL -> 015_비교 연산자)
 
 ***
