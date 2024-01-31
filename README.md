@@ -1,6 +1,6 @@
 # study-record-consolidation
 
-****
+***
 
 ## Classification by Topic
 
