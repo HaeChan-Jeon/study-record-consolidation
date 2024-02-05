@@ -26,6 +26,7 @@
       * [**칼럼 값 제한하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/013_%EC%B9%BC%EB%9F%BC%20%EA%B0%92%20%EC%A0%9C%ED%95%9C%ED%95%98%EA%B8%B0.md)
       * [**논리 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/014_%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)
       * [**비교 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/015_%EB%B9%84%EA%B5%90%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+      * [**조건문 함수 - CASE 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/016_%EC%A1%B0%EA%B1%B4%EB%AC%B8%20%ED%95%A8%EC%88%98%20-%20CASE%20%ED%95%A8%EC%88%98.md)
   * JAVASCRIPT
     * VANILLA
       * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample/errorExample.html)
@@ -173,5 +174,6 @@
     * [**new 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/028_new%20%EC%97%B0%EC%82%B0%EC%9E%90/new%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (01/26 |  JAVASCRIPT -> VANILLA -> 028_new 연산자자)
     * [**논리 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/014_%EB%85%BC%EB%A6%AC%EC%97%B0%EC%82%B0%EC%9E%90.md)  (01/29 | DATABASE -> PostgreSQL -> 014_논리 연산자)
     * [**비교 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/015_%EB%B9%84%EA%B5%90%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (01/30 | DATABASE -> PostgreSQL -> 015_비교 연산자)
+    * [**조건문 함수 - CASE 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/016_%EC%A1%B0%EA%B1%B4%EB%AC%B8%20%ED%95%A8%EC%88%98%20-%20CASE%20%ED%95%A8%EC%88%98.md) (02/05 | DATABASE -> PostgreSQL -> 016_조건문 함수 - CASE 함수)
 
 ***
