@@ -28,6 +28,7 @@
       * [**비교 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/015_%EB%B9%84%EA%B5%90%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
       * [**조건문 함수 - CASE 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/016_%EC%A1%B0%EA%B1%B4%EB%AC%B8%20%ED%95%A8%EC%88%98%20-%20CASE%20%ED%95%A8%EC%88%98.md)
       * [조건문 함수 - COALESCE 함수](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/017_%EC%A1%B0%EA%B1%B4%EB%AC%B8%20%ED%95%A8%EC%88%98%20-%20COALESCE%20%ED%95%A8%EC%88%98.md)
+      * [배열 연산자](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/018_%EB%B0%B0%EC%97%B4%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
   * JAVASCRIPT
     * VANILLA
       * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample/errorExample.html)
@@ -180,5 +181,6 @@
     * [**조건문 함수 - CASE 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/016_%EC%A1%B0%EA%B1%B4%EB%AC%B8%20%ED%95%A8%EC%88%98%20-%20CASE%20%ED%95%A8%EC%88%98.md) (02/05 | DATABASE -> PostgreSQL -> 016_조건문 함수 - CASE 함수)
     * [조건문 함수 - COALESCE 함수](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/017_%EC%A1%B0%EA%B1%B4%EB%AC%B8%20%ED%95%A8%EC%88%98%20-%20COALESCE%20%ED%95%A8%EC%88%98.md) (02/06 | DATABASE -> PostgreSQL -> 017_조건문 함수 - COALESCE 함수)
     * [**the basic of react**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/01_the%20basic%20of%20react) (02/06 | ReactJS -> 01_react-for-beginners -> 01_the basic of react)
+    * [배열 연산자](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/018_%EB%B0%B0%EC%97%B4%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (02/07 | DATABASE -> PostgreSQL -> 018_배열 연산자)
 
 ***
