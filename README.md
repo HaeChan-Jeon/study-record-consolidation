@@ -68,6 +68,7 @@
     * CLONE
   * ReactJS
     * [**the basic of react**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/01_the%20basic%20of%20react)
+    * [**understanding state**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/02_understanding%20state)
 
 ### FRONT-END
   * CLONE
@@ -184,5 +185,6 @@
     * [**the basic of react**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/01_the%20basic%20of%20react) (02/06 | ReactJS -> 01_react-for-beginners -> 01_the basic of react)
     * [**배열 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/018_%EB%B0%B0%EC%97%B4%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (02/07 | DATABASE -> PostgreSQL -> 018_배열 연산자)
     * [**배열 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/019_%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98.md) (02/13 | DATABASE -> PostgreSQL -> 019_배열 함수)
+    * [**understanding state**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/02_understanding%20state) (02/13 | ReactJS -> 01_react-for-beginners -> 02_understanding state)
 
 ***
