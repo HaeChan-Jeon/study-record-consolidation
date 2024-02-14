@@ -30,6 +30,7 @@
       * [**조건문 함수 - COALESCE 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/017_%EC%A1%B0%EA%B1%B4%EB%AC%B8%20%ED%95%A8%EC%88%98%20-%20COALESCE%20%ED%95%A8%EC%88%98.md)
       * [**배열 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/018_%EB%B0%B0%EC%97%B4%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
       * [**배열 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/019_%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98.md)
+      * [**JSON, JSONB 공통 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/020_JSON%2C%20JSONB%20%EA%B3%B5%ED%86%B5%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
   * JAVASCRIPT
     * VANILLA
       * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample/errorExample.html)
@@ -187,5 +188,6 @@
     * [**배열 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/019_%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98.md) (02/13 | DATABASE -> PostgreSQL -> 019_배열 함수)
     * [**understanding state**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/02_understanding%20state) (02/13 | ReactJS -> 01_react-for-beginners -> 02_understanding state)
     * [**팝업의 유형**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/UI/01_%ED%8C%9D%EC%97%85%EC%9D%98%20%EC%9C%A0%ED%98%95.md) (02/13 | UI -> 01_팝업의 유형)
+    * [**JSON, JSONB 공통 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/020_JSON%2C%20JSONB%20%EA%B3%B5%ED%86%B5%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (02/14 | DATABASE -> PostgreSQL -> 020_JSON, JSONB 공통 연산자)
 
 ***
