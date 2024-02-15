@@ -71,6 +71,7 @@
   * ReactJS
     * [**the basic of react**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/01_the%20basic%20of%20react)
     * [**understanding state**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/02_understanding%20state)
+    * [**setState part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/03_setState%20part%20one)
 
 ### FRONT-END
   * CLONE
@@ -191,5 +192,6 @@
     * [**팝업의 유형**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/UI/01_%ED%8C%9D%EC%97%85%EC%9D%98%20%EC%9C%A0%ED%98%95.md) (02/13 | UI -> 01_팝업의 유형)
     * [**JSON, JSONB 공통 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/020_JSON%2C%20JSONB%20%EA%B3%B5%ED%86%B5%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (02/14 | DATABASE -> PostgreSQL -> 020_JSON, JSONB 공통 연산자)
     * [**JSONB 개념 및 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/021_JSONB%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (02/15 | DATABASE -> PostgreSQL -> 021_JSONB 개념 및 연산자)
+    * [**setState part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/03_setState%20part%20one) (02/15 | ReactJS -> 01_react-for-beginners -> 03_setState part one)
 
 ***
