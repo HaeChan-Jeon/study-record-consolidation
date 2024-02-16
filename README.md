@@ -32,6 +32,8 @@
       * [**배열 함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/019_%EB%B0%B0%EC%97%B4%20%ED%95%A8%EC%88%98.md)
       * [**JSON, JSONB 공통 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/020_JSON%2C%20JSONB%20%EA%B3%B5%ED%86%B5%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
       * [**JSONB 개념 및 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/021_JSONB%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+      * [**JSON 생성과 처리함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/022_JSON%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EC%B2%98%EB%A6%AC%ED%95%A8%EC%88%98.md)
+
   * JAVASCRIPT
     * VANILLA
       * [**ErrorExample**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/javascript/vanilla/001_ErrorExample/errorExample.html)
@@ -61,13 +63,17 @@
       * [**원시값**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/026_%EC%9B%90%EC%8B%9C%EA%B0%92/%EC%9B%90%EC%8B%9C%EA%B0%92.md)
       * [**객체**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/027_%EA%B0%9D%EC%B2%B4/%EA%B0%9D%EC%B2%B4.md)
       * [**new 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/javascript/vanilla/028_new%20%EC%97%B0%EC%82%B0%EC%9E%90/new%20%EC%97%B0%EC%82%B0%EC%9E%90.md)
+
   * GIT
     * [**git 시작하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/001_git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
     * [**풀 리퀘스트(Pull Request)란 무엇인가?**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/git/002_%ED%92%80%20%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8(Pull%20Request)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F.md)
+
   * UX
     * [**Date-Input Form Fields**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/UX/Date-Input%20Form%20Fields/README.md)
+
   * UI
     * [**팝업의 유형**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/UI/01_%ED%8C%9D%EC%97%85%EC%9D%98%20%EC%9C%A0%ED%98%95.md)
+
   * ReactJS
     * [**the basic of react**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/01_the%20basic%20of%20react)
     * [**understanding state**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/02_understanding%20state)
@@ -193,5 +199,7 @@
     * [**JSON, JSONB 공통 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/020_JSON%2C%20JSONB%20%EA%B3%B5%ED%86%B5%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (02/14 | DATABASE -> PostgreSQL -> 020_JSON, JSONB 공통 연산자)
     * [**JSONB 개념 및 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/021_JSONB%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (02/15 | DATABASE -> PostgreSQL -> 021_JSONB 개념 및 연산자)
     * [**setState part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/03_setState%20part%20one) (02/15 | ReactJS -> 01_react-for-beginners -> 03_setState part one)
+    * [**JSON 생성과 처리함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/022_JSON%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EC%B2%98%EB%A6%AC%ED%95%A8%EC%88%98.md) (02/16 | DATABASE -> PostgreSQL -> 022_JSON 생성과 처리함수)
+
 
 ***
