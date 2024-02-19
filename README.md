@@ -79,6 +79,11 @@
     * [**understanding state**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/02_understanding%20state)
     * [**setState part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/03_setState%20part%20one)
 
+  * Math
+    * [**분모가 같은 분수의 덧셈과 뺄셈, 약수와 배수, 공약수와 최대공약수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/001%20~%20007_%EB%B6%84%EB%AA%A8%EA%B0%80%20%EA%B0%99%EC%9D%80%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88,%20%EC%95%BD%EC%88%98%EC%99%80%20%EB%B0%B0%EC%88%98,%20%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98,%20%EA%B3%B5%EB%B0%B0%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98,%20%EC%95%BD%EB%B6%84,%20%ED%86%B5%EB%B6%84,%20%EB%B6%84%EB%AA%A8%EA%B0%80%20%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88.md)
+
+
+
 ### FRONT-END
   * CLONE
     * [**clone-timothy-snyder**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/front-end/clone/clone-timothy-snyder)
@@ -200,6 +205,6 @@
     * [**JSONB 개념 및 연산자**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/021_JSONB%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%EC%97%B0%EC%82%B0%EC%9E%90.md) (02/15 | DATABASE -> PostgreSQL -> 021_JSONB 개념 및 연산자)
     * [**setState part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/03_setState%20part%20one) (02/15 | ReactJS -> 01_react-for-beginners -> 03_setState part one)
     * [**JSON 생성과 처리함수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/DATABASE/PostgreSQL/022_JSON%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%EC%B2%98%EB%A6%AC%ED%95%A8%EC%88%98.md) (02/16 | DATABASE -> PostgreSQL -> 022_JSON 생성과 처리함수)
-
+    * [**분모가 같은 분수의 덧셈과 뺄셈, 약수와 배수, 공약수와 최대공약수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/001%20~%20007_%EB%B6%84%EB%AA%A8%EA%B0%80%20%EA%B0%99%EC%9D%80%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88,%20%EC%95%BD%EC%88%98%EC%99%80%20%EB%B0%B0%EC%88%98,%20%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98,%20%EA%B3%B5%EB%B0%B0%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98,%20%EC%95%BD%EB%B6%84,%20%ED%86%B5%EB%B6%84,%20%EB%B6%84%EB%AA%A8%EA%B0%80%20%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88.md) (02/19 | Math -> 001 ~ 003_분모가 같은 분수의 덧셈과 뺄셈, 약수와 배수, 공약수와 최대공약수)
 
 ***
