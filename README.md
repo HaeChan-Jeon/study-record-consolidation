@@ -82,6 +82,8 @@
     * [**setState part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/03_setState%20part%20one)
     * [**setState part two**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/04_setState%20part%20two/index.html)
     * [**state Functions**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/05_state%20Functions/index.html)
+    * [**inputs and state**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/06_inputs%20and%20state/index.html)
+    * [**state practice part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/07_state%20practice%20part%20one/index.html)
 
 
   * Math
@@ -217,5 +219,7 @@
     * [**반응형 웹이란?**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/UI/02_%EB%B0%98%EC%9D%91%ED%98%95%20%EC%9B%B9%EC%9D%B4%EB%9E%80%3F.md
 ) (02/19 | UI -> 02_반응형 웹이란?)
     * [**공배수와 최소공배수, 약분, 통분, 분모가 서로 다른 분수의 덧셈과 뺄셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/004%20~%20007_%EA%B3%B5%EB%B0%B0%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%2C%20%EC%95%BD%EB%B6%84%2C%20%ED%86%B5%EB%B6%84%2C%20%EB%B6%84%EB%AA%A8%EA%B0%80%20%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88.md) (02/20 | Math -> 004 ~ 007_공배수와 최소공배수, 약분, 통분, 분모가 서로 다른 분수의 덧셈과 뺄셈)
+    * [**inputs and state**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/06_inputs%20and%20state/index.html) (02/20 | ReactJS -> 01_react-for-beginners -> 06_inputs and state)
+    * [**state practice part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/07_state%20practice%20part%20one/index.html) (02/20 | ReactJS -> 01_react-for-beginners -> 07_state practice part one)
 
 ***
