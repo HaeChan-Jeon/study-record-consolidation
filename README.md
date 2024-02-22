@@ -90,6 +90,7 @@
     * [**분모가 같은 분수의 덧셈과 뺄셈, 약수와 배수, 공약수와 최대공약수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/001%20~%20003_%EB%B6%84%EB%AA%A8%EA%B0%80%20%EA%B0%99%EC%9D%80%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88,%20%EC%95%BD%EC%88%98%EC%99%80%20%EB%B0%B0%EC%88%98,%20%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98md)
     * [**공배수와 최소공배수, 약분, 통분, 분모가 서로 다른 분수의 덧셈과 뺄셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/004%20~%20007_%EA%B3%B5%EB%B0%B0%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98%2C%20%EC%95%BD%EB%B6%84%2C%20%ED%86%B5%EB%B6%84%2C%20%EB%B6%84%EB%AA%A8%EA%B0%80%20%EC%84%9C%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88.md)
     * [**008 ~ 011_분수의 곱셈, 분수의 나눗셈, 소수의 덧셈, 소수의 뺄셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/008%20~%20011_%EB%B6%84%EC%88%98%EC%9D%98%20%EA%B3%B1%EC%85%88%2C%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%EC%86%8C%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%2C%20%EC%86%8C%EC%88%98%EC%9D%98%20%EB%BA%84%EC%85%88.md)
+    * [**012 ~ 014_소수의 곱셈, 소수의 나눗셈, 분수와 소수의 혼합 계산**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/012%20~%20014_%EC%86%8C%EC%88%98%EC%9D%98%20%EA%B3%B1%EC%85%88%2C%20%EC%86%8C%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%EB%B6%84%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98%EC%9D%98%20%ED%98%BC%ED%95%A9%20%EA%B3%84%EC%82%B0.md)
     
 
 
@@ -224,5 +225,6 @@
     * [**inputs and state**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/06_inputs%20and%20state/index.html) (02/20 | ReactJS -> 01_react-for-beginners -> 06_inputs and state)
     * [**state practice part one**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/07_state%20practice%20part%20one/index.html) (02/20 | ReactJS -> 01_react-for-beginners -> 07_state practice part one)
     * [**008 ~ 011_분수의 곱셈, 분수의 나눗셈, 소수의 덧셈, 소수의 뺄셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/008%20~%20011_%EB%B6%84%EC%88%98%EC%9D%98%20%EA%B3%B1%EC%85%88%2C%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%EC%86%8C%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%2C%20%EC%86%8C%EC%88%98%EC%9D%98%20%EB%BA%84%EC%85%88.md) (02/21 | Math -> 008 ~ 011_분수의 곱셈, 분수의 나눗셈, 소수의 덧셈, 소수의 뺄셈)
+    * [**012 ~ 014_소수의 곱셈, 소수의 나눗셈, 분수와 소수의 혼합 계산**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/012%20~%20014_%EC%86%8C%EC%88%98%EC%9D%98%20%EA%B3%B1%EC%85%88%2C%20%EC%86%8C%EC%88%98%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%EB%B6%84%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98%EC%9D%98%20%ED%98%BC%ED%95%A9%20%EA%B3%84%EC%82%B0.md) (02/22 | Math -> 012 ~ 014_소수의 곱셈, 소수의 나눗셈, 분수와 소수의 혼합 계산)
 
 ***
