@@ -87,6 +87,8 @@
     * [**state practice part two**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/08_state%20practice%20part%20two/index.html)
     * [**state practice part recap**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/09_state%20practice%20recap/index.html)
     * [**state practice final practice and recap**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/10_state%20practice%20final%20practice%20and%20recap/index.html)
+    * [**props**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/11_props/index.html)
+    * [**memo**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/12_memo/index.html)
 
   * Math
     * [**분모가 같은 분수의 덧셈과 뺄셈, 약수와 배수, 공약수와 최대공약수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/001%20~%20003_%EB%B6%84%EB%AA%A8%EA%B0%80%20%EA%B0%99%EC%9D%80%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88,%20%EC%95%BD%EC%88%98%EC%99%80%20%EB%B0%B0%EC%88%98,%20%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98md)
@@ -241,5 +243,7 @@
     * [**state practice final practice and recap**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/10_state%20practice%20final%20practice%20and%20recap/index.html) (02/27 | ReactJS -> 01_react-for-beginners -> 10_state practice final practice and recap)
     * [**030 ~ 033_단항식의 곱셈, 단항식의 나눗셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/030%20~%20033_%EB%8B%A8%ED%95%AD%EC%8B%9D%EC%9D%98%20%EA%B3%B1%EC%85%88%2C%20%EB%8B%A8%ED%95%AD%EC%8B%9D%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88.md) (02/28 | Math -> 030 ~ 033_단항식의 곱셈, 단항식의 나눗셈)
     * [**034 ~ 037_단항식의 곱셈과 나눗셈의 혼합 계산, 다항식의 덧셈과 뺄셈, 이차식의 덧셈과 뺄셈, 단항식과 다항식의 곱셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/034%20~%20037_%EB%8B%A8%ED%95%AD%EC%8B%9D%EC%9D%98%20%EA%B3%B1%EC%85%88%EA%B3%BC%20%EB%82%98%EB%88%97%EC%85%88%EC%9D%98%20%ED%98%BC%ED%95%A9%20%EA%B3%84%EC%82%B0%2C%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88%2C%20%EC%9D%B4%EC%B0%A8%EC%8B%9D%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88%2C%20%EB%8B%A8%ED%95%AD%EC%8B%9D%EA%B3%BC%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EA%B3%B1%EC%85%88.md) (02/29 | Math -> 034 ~ 037_단항식의 곱셈과 나눗셈의 혼합 계산, 다항식의 덧셈과 뺄셈, 이차식의 덧셈과 뺄셈, 단항식과 다항식의 곱셈)
+    * [**props**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/11_props/index.html) (03/05 | ReactJS -> 01_react-for-beginners -> 11_props)
+    * [**memo**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/12_memo/index.html) (03/05 | ReactJS -> 01_react-for-beginners -> 12_memo)
 
 ***
