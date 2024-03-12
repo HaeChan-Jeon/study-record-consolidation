@@ -104,6 +104,7 @@
     * [**038 ~ 041_단항식과 다항식의 나눗셈, 다항식의 혼합 계산, 이차 다항식의 제곱, 이차 다항식의 차**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/038%20~%20041_%EB%8B%A8%ED%95%AD%EC%8B%9D%EA%B3%BC%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%ED%98%BC%ED%95%A9%20%EA%B3%84%EC%82%B0%2C%20%EC%9D%B4%EC%B0%A8%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EC%A0%9C%EA%B3%B1%2C%20%EC%9D%B4%EC%B0%A8%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EC%B0%A8.md)
     * [042 ~ 045_곱셈 공식을 이용한 수의 계산, 곱셈 공식의 변형](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/042%20~%20045_%EA%B3%B1%EC%85%88%20%EA%B3%B5%EC%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%88%98%EC%9D%98%20%EA%B3%84%EC%82%B0%2C%20%EA%B3%B1%EC%85%88%20%EA%B3%B5%EC%8B%9D%EC%9D%98%20%EB%B3%80%ED%98%95.md)
     * [**046 ~ 049_식의 대입, 인수분해**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/046%20~%20049_%EC%8B%9D%EC%9D%98%20%EB%8C%80%EC%9E%85%2C%20%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4.md)
+    * [**050 ~ 053_완전제곱식이 되기 위한 조건**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/050%20~%20053_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%8B%9D%EC%9D%B4%20%EB%90%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%A1%B0%EA%B1%B4.md)
 
 ### FRONT-END
   * CLONE
@@ -251,5 +252,6 @@
     * [**038 ~ 041_단항식과 다항식의 나눗셈, 다항식의 혼합 계산, 이차 다항식의 제곱, 이차 다항식의 차**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/038%20~%20041_%EB%8B%A8%ED%95%AD%EC%8B%9D%EA%B3%BC%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%ED%98%BC%ED%95%A9%20%EA%B3%84%EC%82%B0%2C%20%EC%9D%B4%EC%B0%A8%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EC%A0%9C%EA%B3%B1%2C%20%EC%9D%B4%EC%B0%A8%20%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EC%B0%A8.md) (03/06 | Math -> 038 ~ 041_단항식과 다항식의 나눗셈, 다항식의 혼합 계산, 이차 다항식의 제곱, 이차 다항식의 차)
     * [042 ~ 045_곱셈 공식을 이용한 수의 계산, 곱셈 공식의 변형](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/042%20~%20045_%EA%B3%B1%EC%85%88%20%EA%B3%B5%EC%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%88%98%EC%9D%98%20%EA%B3%84%EC%82%B0%2C%20%EA%B3%B1%EC%85%88%20%EA%B3%B5%EC%8B%9D%EC%9D%98%20%EB%B3%80%ED%98%95.md) (03/11 | Math -> 042 ~ 045_곱셈 공식을 이용한 수의 계산, 곱셈 공식의 변형)
     * [**046 ~ 049_식의 대입, 인수분해**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/046%20~%20049_%EC%8B%9D%EC%9D%98%20%EB%8C%80%EC%9E%85%2C%20%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4.md) (03/12 | Math -> 046 ~ 049_식의 대입, 인수분해)
+    * [**050 ~ 053_완전제곱식이 되기 위한 조건**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/050%20~%20053_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%8B%9D%EC%9D%B4%20%EB%90%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%A1%B0%EA%B1%B4.md) (03/13 | Math -> 050 ~ 053_완전제곱식이 되기 위한 조건)
 
 ***
