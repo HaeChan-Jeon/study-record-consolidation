@@ -79,7 +79,7 @@ class HELLOUNREAL_API UMyGameInstance : public UGameInstance
 };
 ```
 
-- 이 클래스는 `MyGameInstance.generated.h` 헤더 파일을 포함하고 있음
+- 이 클래스는 `MyGameInstance.generated.h` 헤더 파일을 선언하고 정의하고 있음
   - 이 파일은 Unreal Engine에서 코드 생성 시 생성된 코드를 포함함
   - 주로 Unreal Engine의 메타 데이터와 관련된 코드가 이 파일에 포함됨
 
