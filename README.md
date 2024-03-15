@@ -108,6 +108,7 @@
     * [**046 ~ 049_식의 대입, 인수분해**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/046%20~%20049_%EC%8B%9D%EC%9D%98%20%EB%8C%80%EC%9E%85%2C%20%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4.md)
     * [**050 ~ 053_완전제곱식이 되기 위한 조건**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/050%20~%20053_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%8B%9D%EC%9D%B4%20%EB%90%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%A1%B0%EA%B1%B4.md)
     * [**054 ~ 056_복잡한 식의 인수분해,인수분해 공식을 이용한 수의 계산, 인수분해 공식을 이용하여 식의 값 구하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/054%20~%20056_%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EC%8B%9D%EC%9D%98%20%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%2C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%20%EA%B3%B5%EC%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%88%98%EC%9D%98%20%EA%B3%84%EC%82%B0%2C%20%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%20%EA%B3%B5%EC%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%8B%9D%EC%9D%98%20%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+    * [**057 ~ 058_다항식의 곱셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/057%20~%20058_%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EA%B3%B1%EC%85%88.md)
 
 ### FRONT-END
   * CLONE
@@ -267,5 +268,6 @@
     * [**13_prop types**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/13_prop%20types/index.html) (03/14 | ReactJS -> 01_react-for-beginners -> 13_prop types)
     * [**14_props recap**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/14_props%20recap/index.html) (03/14 | ReactJS -> 01_react-for-beginners -> 14_props recap)
     * [**001_언리얼 엔진의 개념 및 GameInstance**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/UE5/001_%EC%96%B8%EB%A6%AC%EC%96%BC%20%EC%97%94%EC%A7%84%EC%9D%98%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20GameInstance.md) (03/14 | UE5 ->001_언리얼 엔진의 개념 및 GameInstance)
+    * [**057 ~ 058_다항식의 곱셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/057%20~%20058_%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EA%B3%B1%EC%85%88.md) (03/15 | Math -> 057 ~ 058_다항식의 곱셈)
 
 ***
