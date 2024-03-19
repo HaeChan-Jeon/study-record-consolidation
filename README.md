@@ -94,6 +94,8 @@
     * [**15_create react app**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/15_create%20react%20app/src/index.js)
     * [**16_tour of CRA**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/16_tour%20of%20CRA/src/App.js)
     * [**17_effects introduction**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/17_effects%20introduction/src/App.js)
+    * [**18_deps**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/18_deps)
+    * [**19_effects recap**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/19_effects%20recap)
 
   * Math
     * [**분모가 같은 분수의 덧셈과 뺄셈, 약수와 배수, 공약수와 최대공약수**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/001%20~%20003_%EB%B6%84%EB%AA%A8%EA%B0%80%20%EA%B0%99%EC%9D%80%20%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88%EA%B3%BC%20%EB%BA%84%EC%85%88,%20%EC%95%BD%EC%88%98%EC%99%80%20%EB%B0%B0%EC%88%98,%20%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98md)
@@ -277,5 +279,7 @@
     * [**16_tour of CRA**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/16_tour%20of%20CRA/src/App.js) (03/18 | ReactJS -> 01_react-for-beginners -> 16_tour of CRA)
     * [**17_effects introduction**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/17_effects%20introduction/src/App.js) (03/18 | ReactJS -> 01_react-for-beginners -> 17_effects introduction)
     * [**061 ~ 062_다항식의 나눗셈, 항등식**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/061%20~%20062_%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%ED%95%AD%EB%93%B1%EC%8B%9D.md) (03/19 | Math -> 061 ~ 062_다항식의 나눗셈, 항등식)
+    * [**18_deps**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/18_deps) (03/19 | ReactJS -> 01_react-for-beginners -> 18_deps)
+    * [**19_effects recap**](https://github.com/HaeChan-Jeon/study-record-consolidation/tree/main/ReactJS/01_react-for-beginners/19_effects%20recap) (03/19 | ReactJS -> 01_react-for-beginners -> 19_effects recap)
 
 ***
