@@ -112,6 +112,7 @@
     * [**050 ~ 053_완전제곱식이 되기 위한 조건**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/050%20~%20053_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%8B%9D%EC%9D%B4%20%EB%90%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%A1%B0%EA%B1%B4.md)
     * [**054 ~ 056_복잡한 식의 인수분해,인수분해 공식을 이용한 수의 계산, 인수분해 공식을 이용하여 식의 값 구하기**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/054%20~%20056_%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EC%8B%9D%EC%9D%98%20%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%2C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%20%EA%B3%B5%EC%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%88%98%EC%9D%98%20%EA%B3%84%EC%82%B0%2C%20%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%20%EA%B3%B5%EC%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%8B%9D%EC%9D%98%20%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
     * [**057 ~ 058_다항식의 곱셈**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/057%20~%20058_%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EA%B3%B1%EC%85%88.md)
+    * [**061 ~ 062_다항식의 나눗셈, 항등식**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/061%20~%20062_%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%ED%95%AD%EB%93%B1%EC%8B%9D.md)
 
 ### FRONT-END
   * CLONE
@@ -275,5 +276,6 @@
     * [**15_create react app**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/15_create%20react%20app/src/index.js) (03/15 | ReactJS -> 01_react-for-beginners -> 15_create react app)
     * [**16_tour of CRA**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/16_tour%20of%20CRA/src/App.js) (03/18 | ReactJS -> 01_react-for-beginners -> 16_tour of CRA)
     * [**17_effects introduction**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/ReactJS/01_react-for-beginners/17_effects%20introduction/src/App.js) (03/18 | ReactJS -> 01_react-for-beginners -> 17_effects introduction)
+    * [**061 ~ 062_다항식의 나눗셈, 항등식**](https://github.com/HaeChan-Jeon/study-record-consolidation/blob/main/math/061%20~%20062_%EB%8B%A4%ED%95%AD%EC%8B%9D%EC%9D%98%20%EB%82%98%EB%88%97%EC%85%88%2C%20%ED%95%AD%EB%93%B1%EC%8B%9D.md) (03/19 | Math -> 061 ~ 062_다항식의 나눗셈, 항등식)
 
 ***
